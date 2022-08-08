@@ -1,4 +1,5 @@
 const { SpiderWebPage } = require('./spidermodule'); 
+const module1 = require('./module1'); 
 
 let spiderwebpage = new SpiderWebPage(); 
 
